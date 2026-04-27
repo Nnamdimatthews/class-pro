@@ -1,0 +1,19 @@
+# Translating the code for printing them
+UserName = "Nnamdi"
+#☝🏾 String
+UserAge = 8
+#☝🏾 Integer
+UserWeight = 45.12
+#☝🏾 Float
+UserIsStudent = True
+#☝🏾 Boolean
+
+# Printing the variables and their data types
+print(f"Name : {UserName}")
+print(f"Data Type of Name is {type(UserName)}")
+print(f"Age : {UserAge}")
+print(f"Data Type of Age is {type(UserAge)}")
+print(f"Weight : {UserWeight}")
+print(f"Data Type of Weight is {type(UserWeight)}")
+print(f"Is student : {UserIsStudent}")
+print(f"Data Type of is student is {type(UserIsStudent)}")
